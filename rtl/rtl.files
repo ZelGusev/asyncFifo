@@ -1,0 +1,10 @@
+./src/ew_ram_r_w_s_dff.sv
+./src/ew_fifoctl_s2_sf.sv
+./src/ew_fifo_s2_sf.sv
+
+./src/ew_sync.sv
+
+./src/DWsc_sync.v
+./src/DW_fifoctl_s2_sf.v
+./src/DW_fifo_s2_sf.v
+./src/DW_ram_r_w_s_dff.v

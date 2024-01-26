@@ -1,0 +1,11 @@
+resolvers.yaml
+tmp
+sg/work
+sg/*.log
+tb/*.log
+tb/*.diag
+tb/*.history
+*.log
+*.diag
+*.history
+**/example

@@ -1,0 +1,4 @@
++incdir+./simple
+
+./simple/fifo_s2_intf.sv
+./simple/top_tb.sv

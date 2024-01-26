@@ -1,0 +1,14 @@
++incdir+./src/parameter
++incdir+./src/fifo_s2_agent
++incdir+./src/env
++incdir+./src/tests
+
+./src/parameter/parameter_pkg.sv
+./src/fifo_s2_agent/fifo_s2_pkg.sv
+./src/env/tb_env_pkg.sv
+./src/tests/tb_test_pkg.sv
+
+./src/clk_gen/clk_gen.sv
+./src/interface/fifo_s2_intf.sv
+
+./src/top_tb.sv
